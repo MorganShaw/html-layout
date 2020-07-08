@@ -1,0 +1,75 @@
+body {
+    padding: 15px;
+}
+
+.box-one {
+    background: transparent;
+    width: auto;
+    height: 20vh;
+    border: solid black;
+    padding: 15px;
+
+}
+
+.purple-box {
+    background: rgb(145, 21, 202);
+    height: 100px;
+    width: 40px;
+    display: inline-block;
+}
+
+.green-box {
+    background: green;
+    width: 250px;
+    height: 140px;
+    display: inline-block;
+    margin: 0 30px;
+}
+ .blue-circle {
+     background: lightblue;
+     border-radius: 50%;
+     height: 140px;
+     width: 140px;
+     display: inline-block;
+ }
+
+.box-two {
+    border: dotted black;
+    height: 25vh;
+    width: 100%;
+    margin: 15px 0;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.cream-box {
+    background: rgb(254, 255, 187);
+    height: 100%;
+    width: 100%;
+    box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.788) ;
+}
+
+.box-three {
+    background: white;
+    height: 250px;
+    width: 400px;
+    border: lightgray solid thin;
+    box-shadow: 1px 1px 3px lightgray ;
+    box-sizing: border-box;
+    margin: 0 15vw;
+    text-align: center;
+   padding: 40px;
+}
+
+.text-box {
+    color: darkblue;
+    font-size: x-large;
+    vertical-align: middle; 
+    padding: 40px;
+    line-height: 20%;
+    margin: auto;
+    letter-spacing: 9px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+    
+}
